@@ -10,5 +10,15 @@ The Recognition of Handwritten Digit can be done by several classification metho
 
 In terms of accuracy score, we have implemented CNN algorithm to achieve 99% accuracy rate. 
 
+Home page
 ![image](https://user-images.githubusercontent.com/64689477/201712988-40b1b123-989d-4ad8-bce2-29d2d2404531.png)
+Predict page 
 ![image](https://user-images.githubusercontent.com/64689477/201713234-8856ac99-10d5-4a99-8a40-c2844a672714.png)
+
+Team Leader:
+1. K. B. HEMAPRIYA
+Team Members:
+2. R. S. BHUVANESHWARI
+3. V. S. CHANDRA
+3. N. L. KARTHIGA MAI
+4. R. NANDHINI
